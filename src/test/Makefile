@@ -1,6 +1,6 @@
 all:
-	$(MAKE) -C .. dash_test
+	$(MAKE) -C .. rapid_test
 clean:
-	$(MAKE) -C .. dash_test_clean
+	$(MAKE) -C .. rapid_test_clean
 check:
-	$(MAKE) -C .. dash_test_check
+	$(MAKE) -C .. rapid_test_check
