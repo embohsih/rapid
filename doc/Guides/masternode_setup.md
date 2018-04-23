@@ -98,9 +98,8 @@ Select the box(es) with the `1000` RAPID transfer(s). Right click and chose `Loc
 <a href="Images/11.png"><img src="Images/11.png" width="700" ></a>
 
 #### While waiting, let's start working on the VPS (Virtual Private Server) hot node.
-This guide will use Digital Ocean as a VPS provider, but the reader is free to chose whomever they like. The author has used them for years as a masternode host and they are very reliable. There are defiantly cheaper providers, but something to consider is that the masternode needs to be up and running 24/7 for supporting the network. Running a masternode on a cheaper, less reliable host will likely give more downtime and less payments in the longer run.
+This guide will use Digital Ocean as a VPS provider, but the reader is free to chose whomever they like.
 
-This <a href="https://m.do.co/c/ecdeeb807414">promotion & referral code</a> gives every new user a `$10` value to start using a new VPS. Please feel free to use it if you like.
 Sign up for a new account, log in and click `New Droplet`
 For this guide we are looking to start a `16.04 Ubuntu` version of Linux as the host:
 Select the `1 GB / 1 CPU, 30 GB SSD Disk, 2 TB Transfer` version. The $10 USD credit provided via the promotional code will give most of the first month hosting for free! Chose a location, it doesn't really matter, but it might be better to chose a location closer to yourself for the remote management.
